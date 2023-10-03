@@ -111,7 +111,7 @@ var p10= document.querySelector ("input[name='p10']:checked").value;
     if (certo < 5){
        document.body.style.backgroundColor = "red";
         var img = document.createElement("img");
-        img.src = "img/faustao.gif";
+        img.src = "./img/faustao.gif";
     
         var div = document.getElementById("x");
         div.appendChild(img);
@@ -123,7 +123,7 @@ var p10= document.querySelector ("input[name='p10']:checked").value;
     else if (certo == 5 || certo == 6 || certo == 7){
         document.body.style.backgroundColor = "blue";
         var img = document.createElement("img");
-        img.src = "img/thumb.png";
+        img.src = "./img/thumb.png";
     
         var div = document.getElementById("x");
         div.appendChild(img);
@@ -135,7 +135,7 @@ var p10= document.querySelector ("input[name='p10']:checked").value;
     else if (certo == 8 || certo == 9){
         document.body.style.backgroundColor = "grey";
         var img = document.createElement("img");
-        img.src = "img/1szkzo.jpg";
+        img.src = "./img/1szkzo.jpg";
     
         var div = document.getElementById("x");
         div.appendChild(img);
@@ -147,7 +147,7 @@ var p10= document.querySelector ("input[name='p10']:checked").value;
     else if (certo == 10){
         document.body.style.backgroundColor = "green";
         var img = document.createElement("img");
-        img.src = "img/fac.gif";
+        img.src = "./img/fac.gif";
     
         var div = document.getElementById("x");
         div.appendChild(img);
