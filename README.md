@@ -1,5 +1,5 @@
 # quizAtividade
-uma atividade feita em dupla com HTML, CSS e Javascript priorizando o javascript para treinar um formato de quiz<br><br>
+uma atividade feita em dupla com HTML, CSS e Javascript priorizando o javascript para treinar um formato de quiz. Primeiro semestre na ETEC de Guarulhos<br>
 
 <h3>Algumas imagens do site que fizemos. Totalmente feio. Era só pra treinar o javascript</h3>
 <br>
